@@ -1,0 +1,15 @@
+com\mycompany\automoviltc\logica\Automovil.class
+com\mycompany\automoviltc\AutomovilTC.class
+com\mycompany\automoviltc\persistencia\AutomovilJpaController.class
+com\mycompany\automoviltc\persistencia\exceptions\NonexistentEntityException.class
+com\mycompany\automoviltc\igu\AltaAutomovil.class
+com\mycompany\automoviltc\logica\Controladora.class
+com\mycompany\automoviltc\persistencia\exceptions\PreexistingEntityException.class
+com\mycompany\automoviltc\igu\Principal.class
+com\mycompany\automoviltc\igu\AltaAutomovil$1.class
+com\mycompany\automoviltc\logica\Automovil_.class
+com\mycompany\automoviltc\igu\AltaAutomovil$2.class
+com\mycompany\automoviltc\persistencia\ControladoraPersistencia.class
+com\mycompany\automoviltc\igu\Principal$2.class
+com\mycompany\automoviltc\persistencia\exceptions\IllegalOrphanException.class
+com\mycompany\automoviltc\igu\Principal$1.class

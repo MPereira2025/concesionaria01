@@ -1,0 +1,8 @@
+nbproject/private/
+
+# Ignorar carpetas de compilación
+build/
+dist/
+
+# Ignorar archivos de conexión real
+src/META-INF/persistence.xml
