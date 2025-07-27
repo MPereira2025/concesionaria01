@@ -5,4 +5,4 @@ build/
 dist/
 
 # Ignorar archivos de conexión real
-src/META-INF/persistence.xml
+src/main/resources/META-INF/persistence.xml
